@@ -8,4 +8,5 @@
 7.getUserDetails() retrieves all the user informations in https://jsonplaceholder.typicode.com/users.
 8.getPostDetails() retrieves all the posts present in https://jsonplaceholder.typicode.com/posts.
 9.getComments(int postId) retrieves all the comments for the particular postId in https://jsonplaceholder.typicode.com/posts/{postId}/comments.
-10.The Testing is done for checking the Status Code and Status Line. 
+10.The Testing is done for checking the Status Code and Status Line.
+Hope this was helpful 
